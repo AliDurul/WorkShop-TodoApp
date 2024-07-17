@@ -1,7 +1,7 @@
 {
   "name": "todo-server",
   "version": "1.0.0",
-  "description": "this is full stack todo API with MongoDB",
+  "description": "This is full stack todo app server with mongoDB",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
